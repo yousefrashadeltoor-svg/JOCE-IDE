@@ -1,0 +1,16 @@
+JOCE IDE — Developer Center
+
+This is a local-only developer console for the first trusted device that opts in on that device.
+It shows:
+- app version and update history
+- local project statistics
+- extension counts and extension health
+- storage usage
+- language, theme, and background settings
+- consent status
+
+It does not:
+- read other devices
+- sync personal data between devices
+- transmit logs to a remote service by default
+- track hidden activity

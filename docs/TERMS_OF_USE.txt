@@ -1,0 +1,44 @@
+JOCE IDE — Terms of Use
+
+1. Local-first operation
+JOCE IDE is designed to work locally on your device. Projects, settings, themes, background preferences, extensions, and update logs are stored on your device unless you explicitly choose a feature that requires something else.
+
+2. Developer Center
+The Developer Center is a local diagnostic and project-management area. It only shows local application statistics and logs. It does not perform cross-device surveillance or hidden tracking.
+
+3. Permissions that may be used
+- Local project files and folders you choose to open or import
+- Settings and preferences stored in browser storage
+- Themes, backgrounds, and editor appearance options
+- Locally installed extensions and their metadata
+- Local update history and app health information
+- Clipboard or notifications only when you explicitly use those features
+
+4. Your responsibilities
+You are responsible for the content you create, import, and share. Do not use the app to collect personal data from other people, and do not attempt to bypass permissions.
+
+5. Acceptance
+You must accept these terms and the Privacy Policy before the app starts.
+
+
+JOCE IDE — شروط الاستخدام
+
+1. العمل المحلي
+تم تصميم JOCE IDE ليعمل محليًا على جهازك. تُحفظ المشاريع والإعدادات والثيمات والخلفيات والإضافات وسجل التحديثات على جهازك إلا إذا اخترت ميزة تتطلب غير ذلك بشكل صريح.
+
+2. غرفة المطور
+غرفة المطور مساحة تشخيص محلية فقط تعرض إحصاءات التطبيق والسجلات المحلية. لا تقوم بأي تتبع خفي أو مراقبة بين الأجهزة.
+
+3. الصلاحيات التي قد تُستخدم
+- ملفات ومجلدات المشروع التي تختار فتحها أو استيرادها
+- الإعدادات والتفضيلات المخزنة محليًا
+- الثيمات والخلفيات وخيارات المظهر
+- الإضافات المثبتة محليًا وبياناتها الوصفية
+- سجل التحديثات ومعلومات صحة التطبيق المحلية
+- الحافظة أو الإشعارات فقط عند استخدام هذه الميزات صراحة
+
+4. مسؤولياتك
+أنت مسؤول عن المحتوى الذي تنشئه أو تستورده أو تشاركه. لا تستخدم التطبيق لجمع بيانات شخصية من الآخرين، ولا تحاول تجاوز الأذونات.
+
+5. الموافقة
+يجب الموافقة على هذه الشروط وسياسة الخصوصية قبل بدء استخدام التطبيق.

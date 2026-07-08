@@ -1,0 +1,40 @@
+JOCE IDE — Privacy Policy
+
+JOCE IDE is local-first and does not send your personal project data to a server by default.
+
+What we store locally:
+- Project files and folders that you import or create
+- Open tabs, workspace state, and layout preferences
+- Theme choices, accent color, background image settings, and editor options
+- Extension metadata, logs, and configuration
+- Update history and consent records
+- Optional local diagnostics shown in the Developer Center
+
+What we do not do:
+- We do not sell your data.
+- We do not collect personal data across devices.
+- We do not build a hidden behavioral profile.
+- We do not sync your projects to a server unless you explicitly use a feature that requires it.
+
+If you enable an optional online feature in the future, it should clearly request permission first.
+
+
+JOCE IDE — سياسة الخصوصية
+
+JOCE IDE يعمل محليًا أولًا ولا يرسل بيانات مشروعك الشخصية إلى خادم بشكل افتراضي.
+
+ما الذي نحتفظ به محليًا:
+- ملفات ومجلدات المشروع التي تستوردها أو تنشئها
+- التبويبات المفتوحة وحالة مساحة العمل وتفضيلات الواجهة
+- الثيمات ولون التمييز والخلفية وخيارات المحرر
+- بيانات الإضافات وسجلاتها وإعداداتها
+- سجل التحديثات وسجلات الموافقة
+- التشخيصات المحلية الاختيارية الظاهرة في غرفة المطور
+
+ما الذي لا نفعله:
+- لا نبيع بياناتك.
+- لا نجمع بيانات شخصية عبر الأجهزة.
+- لا نبني ملفًا سلوكيًا خفيًا عنك.
+- لا نزامن مشروعاتك مع خادم إلا إذا استخدمت ميزة تتطلب ذلك صراحة.
+
+إذا فعّلت ميزة أونلاين اختيارية في المستقبل فيجب أن تطلب الصلاحية بوضوح أولًا.
