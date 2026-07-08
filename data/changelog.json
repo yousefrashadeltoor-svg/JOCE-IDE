@@ -1,0 +1,84 @@
+[
+  {
+    "version": "2.4.0",
+    "time": "2026-07-08T14:54:59Z",
+    "title": {
+      "en": "JOCE IDE 2.4.0 — Consent, legal docs, and developer room",
+      "ar": "JOCE IDE 2.4.0 — الموافقة والوثائق القانونية وغرفة المطور"
+    },
+    "items": {
+      "en": [
+        "Added a mandatory first-run consent gate before startup.",
+        "Added Terms of Use, Privacy Policy, and Permissions docs.",
+        "Expanded the local Developer Center and its settings entry.",
+        "Kept all controls offline-first and device-local."
+      ],
+      "ar": [
+        "إضافة شاشة موافقة إلزامية قبل بدء التشغيل.",
+        "إضافة وثائق شروط الاستخدام وسياسة الخصوصية والصلاحيات.",
+        "توسيع غرفة المطور المحلية وإدخالها في الإعدادات.",
+        "الحفاظ على العمل المحلي الكامل بدون إنترنت."
+      ]
+    }
+  },
+  {
+    "version": "2.3.0",
+    "time": "2026-07-08T10:28:36Z",
+    "title": {
+      "en": "JOCE IDE 2.3.0 — Update log and stability release",
+      "ar": "JOCE IDE 2.3.0 — سجل التحديثات وتحسينات الثبات"
+    },
+    "items": {
+      "en": [
+        "Added a persistent update log system inside Settings with version history and timestamps.",
+        "Improved the background system with custom image handling and richer controls.",
+        "Expanded localization support and retained offline-first behavior."
+      ],
+      "ar": [
+        "إضافة نظام سجل تحديثات دائم داخل الإعدادات مع الإصدارات والتوقيت.",
+        "تحسين نظام الخلفيات مع التعامل الأفضل مع الصور والتحكم المتقدم.",
+        "توسيع دعم اللغات مع الحفاظ على العمل الكامل بدون إنترنت."
+      ]
+    }
+  },
+  {
+    "version": "2.2.0",
+    "time": "2026-07-05T12:00:00Z",
+    "title": {
+      "en": "JOCE IDE 2.2.0 — Extension platform foundation",
+      "ar": "JOCE IDE 2.2.0 — أساس منصة الإضافات"
+    },
+    "items": {
+      "en": [
+        "Built the extension loader, sandbox, and contribution registry.",
+        "Added theme and background configuration persistence.",
+        "Introduced first-party extension templates."
+      ],
+      "ar": [
+        "إنشاء محمل الإضافات، ونظام العزل، وسجل المساهمات.",
+        "إضافة حفظ إعدادات الثيم والخلفية.",
+        "توفير قوالب إضافات أساسية."
+      ]
+    }
+  },
+  {
+    "version": "2.1.0",
+    "time": "2026-07-04T18:00:00Z",
+    "title": {
+      "en": "JOCE IDE 2.1.0 — Core editor polishing",
+      "ar": "JOCE IDE 2.1.0 — تحسينات أساسية للمحرر"
+    },
+    "items": {
+      "en": [
+        "Improved editor layout and interaction stability.",
+        "Added additional syntax highlighting and search refinements.",
+        "Refined autosave and responsive UI handling."
+      ],
+      "ar": [
+        "تحسين تخطيط المحرر وثبات التفاعل.",
+        "إضافة تحسينات على التلوين والبحث.",
+        "تحسين الحفظ التلقائي والتجاوب مع الشاشات المختلفة."
+      ]
+    }
+  }
+]
