@@ -1,0 +1,18 @@
+{
+  "appName": "JOCE IDE",
+  "settings": "الإعدادات",
+  "language": "اللغة",
+  "appearance": "المظهر",
+  "background": "الخلفية",
+  "editor": "المحرر",
+  "project": "المشروع",
+  "appInfo": "معلومات التطبيق",
+  "version": "الإصدار",
+  "updateLog": "سجل التحديثات",
+  "viewHistory": "عرض السجل",
+  "lastUpdate": "آخر تحديث",
+  "historyEntries": "عدد السجلات",
+  "markAsRead": "تعيين كمقروء",
+  "developerCenter": "غرفة المطور",
+  "open": "فتح"
+}

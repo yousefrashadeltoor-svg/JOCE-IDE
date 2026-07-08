@@ -1,0 +1,18 @@
+{
+  "appName": "JOCE IDE",
+  "settings": "Settings",
+  "language": "Language",
+  "appearance": "Appearance",
+  "background": "Background",
+  "editor": "Editor",
+  "project": "Project",
+  "appInfo": "App Information",
+  "version": "Version",
+  "updateLog": "Update Log",
+  "viewHistory": "View History",
+  "lastUpdate": "Last Update",
+  "historyEntries": "History Entries",
+  "markAsRead": "Mark as Read",
+  "developerCenter": "Developer Center",
+  "open": "Open"
+}
